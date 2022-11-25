@@ -28,7 +28,7 @@ We have set the following security measures for all our Validator Nodes.
 4. We removed SSH login using root password (root-pass).
 5. IP Lock - SSH login is only allowed from 1 main IP and temporary access to another IP is allowed during travel.
 6. We run dedicated powerful servers for all our nodes with NVMe SSD. A few settings have been specially updated for the best performance on the server. We regularly check and update for new updates for the operating system.
-7. Fully synchronized Backup server (even for Kujira Testnet) and if main server is down, we can switch to backup server in 5 minutes.
+7. Fully synchronized Backup server and if main server is down, we can switch to backup server in 5 minutes.
 
 ## Contact us
 
