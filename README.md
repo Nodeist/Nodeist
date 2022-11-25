@@ -1,4 +1,5 @@
-<p align="center"> <a href="https://nodeist.site/" target="_blank"><img src="https://raw.githubusercontent.com/Nodeist/Testnet_Kurulumlar/main/logo.png" width="64"/></a></p>
+<p align="center"> <a href="https://nodeist.site/" target="_blank"><img src="https://github.com/Nodeist/Kurulumlar/blob/main/logos/logo.png" width="64"/></a></p>
+
 # Nodeist Profile
 
 - Name: Nodeist
